@@ -46,3 +46,7 @@ Deixamos aqui nossos agradecimentos à **Profa. Andréa Paiva**, ao **Prof. Jos�
 ![Site do evento 2](img/site-02.png)
 
 ![Site do evento 3](img/site-03.png)
+
+![Banner 1](img/banner-01.jpg)
+
+![Banner 2](img/banner-02.jpg)
