@@ -1,2 +1,2 @@
-# fiap-conect-summit_2025-10
+# fiap-conect-summit-seguranca-codigo_2025-10
 Informações sobre o Workshop "Implementando Segurança em Código na prática: de aplicações à infraestrutura com GitHub Actions!", realizado durante evento promovido pela FIAP em São Paulo-SP no dia 25/10/2025. - Docker, Kubernetes, Linux, GitHub Actions, .NET, Checkov, KICS, Gitleaks, Kor...
