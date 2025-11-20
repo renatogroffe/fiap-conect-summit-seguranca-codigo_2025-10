@@ -43,6 +43,8 @@ Deixamos aqui nossos agradecimentos à **Profa. Andréa Paiva**, ao **Prof. Jos�
 
 ![Palestrantes e organizadores](img/seg-fiap-51.jpeg)
 
+![Anúncio LinkedIn](img/linkedin-01.png)
+
 ![Site do evento 1](img/site-01.png)
 
 ![Site do evento 2](img/site-02.png)
