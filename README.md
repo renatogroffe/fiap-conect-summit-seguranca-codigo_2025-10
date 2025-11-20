@@ -39,6 +39,8 @@ Deixamos aqui nossos agradecimentos à **Profa. Andréa Paiva**, ao **Prof. Jos�
 
 ![Renato e Nizzola palestrando](img/seg-fiap-05.jpeg)
 
+![Renato e Nizzola palestrando](img/seg-fiap-60.jpeg)
+
 ![Palestrantes e organizadores](img/seg-fiap-51.jpeg)
 
 ![Site do evento 1](img/site-01.png)
