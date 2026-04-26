@@ -13,7 +13,7 @@ Data: **25/10/2025 (sábado)**
 
 Conteúdo apresentado durante o evento: **https://github.com/renatogroffe/workshop-seguranca-codigo_2025-10**
 
-Tecnologias e tópicos abordados: **Docker, Kubernetes, Linux, GitHub Actions, .NET, Checkov, KICS, Gitleaks, Kor, Docker Scout, SAST, DAST, Cybersecurity, APIsec scanner...**
+Tecnologias e tópicos abordados: **Docker, Kubernetes, Azure Kubernetes Service, Linux, GitHub Actions, .NET, Checkov, KICS, Gitleaks, Kor, Docker Scout, SAST, DAST, Cybersecurity, APIsec scanner...**
 
 Número de participantes: **120 pessoas**
 
